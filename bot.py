@@ -5,7 +5,7 @@ from aiogram.filters import Command
 import aiohttp
 
 # API Tokenlarni joylashtiring
-BOT_TOKEN = "BU_YERGA_BOTFATHER_BERGAN_TOKENNI_YASHLANG"
+BOT_TOKEN = "8710679355:AAEVKcdbbaZ79XLDDM2xmGgqTLWIrugIfOQ"
 
 logging.basicConfig(level=logging.INFO)
 bot = Bot(token=BOT_TOKEN)
