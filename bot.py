@@ -5,7 +5,7 @@ from aiogram.filters import CommandStart
 from aiogram.types import InlineKeyboardMarkup, InlineKeyboardButton, WebAppInfo
 
 # 1. BOT TOKEN VA ADMIN SOZLAMALARI
-BOT_TOKEN = "8710679355:AAEkh34-t-bdVioU3aw9yhik8ghDflOWdb4"  # BotFather'dan olgan tokenni qo'ying
+BOT_TOKEN = "8710679355:AAFBqbw5CwqTTVDN_qEOtZi5gL5HvC7wAU4"  # BotFather'dan olgan tokenni qo'ying
 ADMIN_USERNAME = "U_Z_BxG"  # Sizning Telegram profilingiz
 
 logging.basicConfig(level=logging.INFO)
